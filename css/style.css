@@ -1,0 +1,71 @@
+/* this area is for text testing 123 */
+
+body{
+  font-family: 'Helvetica', sans-serif;
+  text-align: center;
+}
+
+img {
+  padding: 30px;
+  margin: -5px;
+}
+
+h1 {
+  font-size: 25px;
+  letter-spacing: 0.0625em;
+  color: yellowgreen;
+}
+
+h2 {
+  font-size: 22px;
+  letter-spacing: 0.0225em;
+  border-bottom: 1px solid;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+p {
+  font-size: 14px;
+  padding: 2px;
+  margin: 2px;
+}
+.date {
+  font-size: 16px;
+  list-style: none;
+}
+
+.orange {
+  font-size: 18px;
+  color: white;
+  padding: 20px;
+  margin-right: 250px;
+  margin-left: 200px;
+  list-style: none;
+  background: orange;
+  border: 1px solid white;
+}
+
+.thistle {
+  color: white;
+  padding: 20px;
+  margin-right: 250px;
+  margin-left: 200px;
+  list-style: none;
+  background: thistle;
+  border: 1px solid;
+}
+
+.lightblue {
+  color: white;
+  padding: 20px;
+  margin-right: 250px;
+  margin-left: 200px;
+  list-style: none;
+  background: lightblue;
+  border: 1px solid;
+}
+
+
+footer {
+  font-size: 10px;
+}
